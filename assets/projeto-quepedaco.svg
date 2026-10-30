@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace">
+<defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#1c0000"/></linearGradient></defs>
+<rect x="1" y="1" width="478" height="178" rx="12" fill="url(#b)" stroke="#FF1E1E" stroke-width="1.5"/>
+<polygon points="380,1 468,1 479,12 479,60" fill="#FF1E1E" opacity=".9"/><polygon points="330,1 360,1 479,100 479,130" fill="#FF1E1E" opacity=".25"/>
+<rect x="1" y="1" width="8" height="178" rx="3" fill="#FF1E1E"/>
+<text x="34" y="44" font-size="12" fill="#FF1E1E" letter-spacing="4" font-weight="700">PROJETO 01</text>
+<text x="34" y="96" font-size="32" fill="#fff" font-weight="700">QuePedaco</text>
+<text x="34" y="122" font-size="13" fill="#8A8A8A">github.com/PyNetStacks/QuePedaco</text>
+<line x1="34" y1="140" x2="446" y2="140" stroke="#2a2a2a"/>
+<text x="34" y="162" font-size="13" fill="#FF1E1E" font-weight="700" letter-spacing="2">VER REPOSITÓRIO →<animate attributeName="opacity" values="1;.45;1" dur="2.4s" repeatCount="indefinite"/></text></svg>
