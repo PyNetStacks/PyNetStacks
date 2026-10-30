@@ -100,7 +100,7 @@ Escrevo código principalmente em **Python**, **JavaScript** e **TypeScript**. *
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vinicius-daniel-boni-78bb9b445"><img src="https://img.shields.io/badge/LinkedIn-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
-<a href="https://instagram.com/vinciux_dxl"><img src="https://img.shields.io/badge/Instagram-@vinciux__dxl-FF1E1E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" /></a>
+<a href="https://instagram.com/vinciux_dxl"><img src="https://img.shields.io/badge/Instagram-@viniciux__dxl-FF1E1E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" /></a>
 <a href="https://github.com/PyNetStacks"><img src="https://img.shields.io/badge/GitHub-PyNetStacks-FF1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
 
 <br/><br/>
