@@ -46,7 +46,7 @@ Escrevo código principalmente em **Python**, **JavaScript** e **TypeScript**. *
 <div align="center">
 
 <a href="https://github.com/PyNetStacks/QuePedaco"><img src="assets/projeto-quepedaco.svg" width="49%" alt="QuePedaco" /></a>
-<a href="https://github.com/PyNetStacks/Projeto-Portifolio"><img src="assets/projeto-portifolio.svg" width="49%" alt="Projeto-Portifolio" /></a>
+<a href="https://pynetstacks.github.io/Portifolio/"><img src="assets/projeto-portifolio.svg" width="49%" alt="Projeto-Portifolio" /></a>
 
 </div>
 
